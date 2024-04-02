@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="162" started-at="2023-11-08T02:11:40Z" finished-at="2023-11-08T02:11:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="162" started-at="2023-11-08T02:11:40Z" finished-at="2023-11-08T02:11:40Z">
+      <class name="Day23.ThirdTest">
+        <test-method status="PASS" signature="app()[pri:0, instance:Day23.ThirdTest@3c0f93f1]" name="app" duration-ms="54" started-at="2023-11-08T07:41:40Z" finished-at="2023-11-08T07:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+        <test-method status="PASS" signature="paymebt()[pri:0, instance:Day23.ThirdTest@3c0f93f1]" name="paymebt" duration-ms="6" started-at="2023-11-08T07:41:40Z" finished-at="2023-11-08T07:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymebt -->
+      </class> <!-- Day23.ThirdTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
